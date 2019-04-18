@@ -1373,8 +1373,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='52' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97640' id='53' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
+            <zone h='100000' id='56' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97640' id='57' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
                 <zone fixed-size='280' h='97640' id='3' is-fixed='true' name='Idle Capacity' show-title='false' w='98406' x='797' y='1180'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1451,8 +1451,8 @@
           </layout-options>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='53' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97640' id='54' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
+            <zone h='100000' id='57' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97640' id='58' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
                 <zone forceUpdate='true' h='7817' id='8' type='text' w='98406' x='797' y='1180'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontsize='16'>RECLAIMERS</run>
@@ -1537,8 +1537,8 @@
           </layout-options>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='54' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97640' id='55' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
+            <zone h='100000' id='58' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97640' id='59' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
                 <zone forceUpdate='true' h='6932' id='8' type='text' w='98406' x='797' y='1180'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontsize='16'>STACKER-RECLAIMER</run>
@@ -1666,8 +1666,8 @@
           </layout-options>
           <size maxheight='750' minheight='750' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='58' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97640' id='59' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
+            <zone h='100000' id='62' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97640' id='63' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
                 <zone forceUpdate='true' h='5605' id='8' type='text' w='98406' x='797' y='1180'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontsize='16'>RECLAIMER (RL1)</run>
@@ -1835,8 +1835,8 @@
           </layout-options>
           <size maxheight='750' minheight='750' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='61' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97640' id='62' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
+            <zone h='100000' id='65' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97640' id='66' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
                 <zone forceUpdate='true' h='5605' id='8' type='text' w='98406' x='797' y='1180'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontsize='16'>RECLAIMER (RL2)</run>
@@ -1996,8 +1996,8 @@
           </layout-options>
           <size maxheight='750' minheight='750' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='60' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97640' id='61' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
+            <zone h='100000' id='64' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97640' id='65' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
                 <zone forceUpdate='true' h='5605' id='8' type='text' w='98406' x='797' y='1180'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontsize='16'>STACKER-RECLAIMER (SR1)</run>
@@ -2142,8 +2142,8 @@
           </layout-options>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='62' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97640' id='63' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
+            <zone h='100000' id='66' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97640' id='67' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
                 <zone fixed-size='280' h='97640' id='10' is-fixed='true' is-scaled='1' param='C:/Users/abti0/OneDrive/Desktop/Tableau files/Tableau-advanced/Projects-Data-Analysis-and-Visualization/Coal Terminal_Data Mining and Analysis/Stockyard_map.PNG' type='bitmap' w='34760' x='797' y='1180'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2270,8 +2270,8 @@
           </layout-options>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='63' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97640' id='64' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
+            <zone h='100000' id='67' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97640' id='68' param='vert' type='layout-flow' w='98406' x='797' y='1180'>
                 <zone fixed-size='280' h='97640' id='10' is-fixed='true' is-scaled='1' param='C:/Users/abti0/OneDrive/Desktop/Tableau files/Tableau-advanced/Projects-Data-Analysis-and-Visualization/Coal Terminal_Data Mining and Analysis/Stockyard_map.PNG' type='bitmap' w='34760' x='797' y='1180'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
